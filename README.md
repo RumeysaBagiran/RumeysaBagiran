@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Merhaba, ben Rümeysa!
+🚀 Yazılım Mühendisliği 4. sınıf öğrencisiyim.  
+📊 Veri analizi, makine öğrenmesi ve web geliştirme ile ilgileniyorum.  
+📌 Şu an GitHub profilimi aktif olarak güncelliyorum!  
 
-<!--
-**RumeysaBagiran/RumeysaBagiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Yeteneklerim:
+- 🔹 Java, HTML , CSS
+- 🔹 SQL, Veri Analizi, Excel
+- 🔹 Web geliştirme ve test otomasyonu
+- 🔹 ML yöntemlerini öğreniyorum
 
-Here are some ideas to get you started:
+🚀 Daha fazla projeye yakında burada yer vereceğim!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
